@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Gauri Desale</h1>
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/93/85/7d/93857d9c7fdbc980ece50fa47302d6d2.jpg")
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/VpZ2Nf5gdRYAAAAd/pc-banging.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gdesale2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gdesale2103" height="30" width="40" /></a>
