@@ -1,4 +1,4 @@
-<h1 align="center">Hii 👋, I'm Gauri Desale</h1>
+<h1 align="center">Hey👋, I'm Gauri Desale</h1>
 <h3 style="text-align: center;">Full Stack Developer | Computer Networks Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/VpZ2Nf5gdRYAAAAd/pc-banging.gif">
 <h3 align="left">Connect with me:</h3>
