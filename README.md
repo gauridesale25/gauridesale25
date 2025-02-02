@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋, I'm Gauri Desale</h1>
 <h3 style="text-align: center;">Full Stack Developer | Computer Networks Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/VpZ2Nf5gdRYAAAAd/pc-banging.gif">
-<h3 align="left">Connect with me:gauridesale25@gmail.com</h3>
+<h6 align="left">Connect with me:gauridesale25@gmail.com</h6>
 <p align="left">
 <a href="https://twitter.com/gdesale2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gdesale2103" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gauri-desale-311514254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauri-desale-311514254" height="30" width="40" /></a>
