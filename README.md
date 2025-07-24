@@ -2,7 +2,7 @@
 <h3 style="text-align: center;">Full Stack Dev(shayad)!!!</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/VpZ2Nf5gdRYAAAAd/pc-banging.gif">
 <p align="left">
-<a href="https://twitter.com/gdesale2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gdesale2103" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/gdesale2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gdesale2103" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/gauri-desale-311514254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauri-desale-311514254" height="30" width="40" /></a>
 </p>
 
